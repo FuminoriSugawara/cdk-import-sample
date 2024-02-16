@@ -1,0 +1,10 @@
+{
+  "awsProfile": {
+    "provision": "default",
+    "bootstrap": "default",
+    "deploy": "default"
+  },
+  "s3": {
+    "bucketName": ""
+  }
+}
